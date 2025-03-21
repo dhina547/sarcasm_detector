@@ -23,7 +23,7 @@ A simple web-based sarcasm detection system that uses Google's **Gemini AI** to 
 │-- 📄 README.md  (This file)
 ```
 
-## Installation & Setup
+##  Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/dhina547/sarcasm_detector.git
@@ -66,7 +66,7 @@ The app will run on `http://127.0.0.1:5000/`
 - **HTML, CSS, JavaScript** (Frontend)
 - **Google Gemini AI** (Sarcasm Detection)
 
-##  License
+##   License
 This project is open-source and available under the **MIT License**.
 
 ## 🤝 Contributing
