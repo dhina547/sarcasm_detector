@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcasm Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 Sarcasm Detector</h1>
+        <p>Enter a text and see if it's sarcastic!</p>
+        <textarea id="userInput" placeholder="Type something sarcastic..."></textarea>
+        <button onclick="detectSarcasm()">Analyze</button>
+        <p id="result">Result: <span id="sarcasmResult">Waiting...</span></p>
+    </div>
+</body>
+</html>
