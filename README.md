@@ -2,6 +2,9 @@
 
 A simple web-based sarcasm detection system that uses Google's **Gemini AI** to analyze text and highlight sarcastic words.
 
+## 📸 Demo Screenshot
+![Sarcasm Detector Screenshot](https://github.com/dhina547/sarcasm_detector/raw/main/Screenshot%202025-03-21%20215550.png)
+
 ## 🚀 Features
 - Detects sarcasm in user-inputted text
 - Highlights sarcastic words in the output
